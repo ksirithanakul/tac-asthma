@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,playlist (4).m3u8
+file:///C:/Users/com/Downloads/playlist%20%284%29.m3u8
+#EXTINF:561,playlist.m3u8?wowzatokenendtime=1617451300&wowzatokenstarttime=0&wowzatokenhash=D9_z_FxYa_c6X5xfcskEwpLrt-18DfmUTKr3_91tnaQ=
+#EXTVLCOPT:network-caching=1000
+https://5db71e2975f42.streamlock.net/tac2021vod/_definst_/4.mp4/playlist.m3u8?wowzatokenendtime=1617451300&wowzatokenstarttime=0&wowzatokenhash=D9_z_FxYa_c6X5xfcskEwpLrt-18DfmUTKr3_91tnaQ=
